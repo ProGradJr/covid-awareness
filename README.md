@@ -1,1 +1,1 @@
-# covid-awareness
+# COVID Awareness
